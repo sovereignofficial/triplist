@@ -7,7 +7,7 @@ export const Footer = ({items}:FooterProps) => {
       return curr.status ? acc + 1 : acc;
     },0);
     const progress = (completedItems / items.length) * 100;
-    return Math.round(progress)
+    return Math.round(progress) || 0
   }
   return (
     <div className="row-span-1 flex justify-center items-center">
