@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Book flight tickets",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Book resort accommodation",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Pack clothes and toiletries",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "name": "Buy sunscreen and insect repellent",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "name": "Arrange for transportation to and from airport",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "name": "Get travel insurance",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "name": "Exchange currency",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "name": "Research local attractions and activities",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "name": "Check weather forecast",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "name": "Notify bank and credit card companies of travel plans",
+      "completed": false
+    }
+  ]
+}
